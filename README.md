@@ -10,4 +10,4 @@ In this question we use Pandas to read, clean, and append several data files fro
 The link for the commit required is [https://github.com/ShihaoSW/Stats507/commit/c35325d9482b4660ddf3696ab36c963154f0f766](https://github.com/ShihaoSW/Stats507/commit/c35325d9482b4660ddf3696ab36c963154f0f766)
 
 The link for the added file is 
-[PS2 Question 3.ipynb](PS2 Question 3.ipynb)
+[PS2 Question 3.ipynb](./PS2 Question 3.ipynb)
