@@ -12,3 +12,4 @@ The link for the added file is
 
 
 The link for the commit required is 
+[https://github.com/ShihaoSW/Stats507/commit/01fc2a919bb7bafdb44d4a36bf303c12664c931f](https://github.com/ShihaoSW/Stats507/commit/01fc2a919bb7bafdb44d4a36bf303c12664c931f)
