@@ -11,5 +11,5 @@ The link for the added file is
 [PS2Q3.ipynb](./PS2Q3.ipynb)
 
 
-The link for the commit required is 
-[https://github.com/ShihaoSW/Stats507/commit/01fc2a919bb7bafdb44d4a36bf303c12664c931f](https://github.com/ShihaoSW/Stats507/commit/01fc2a919bb7bafdb44d4a36bf303c12664c931f)
+The link for the add file commit required is 
+[https://github.com/ShihaoSW/Stats507/commit/df6b277cb9521c12a8564a95e9c422b2e8f467f1](https://github.com/ShihaoSW/Stats507/commit/df6b277cb9521c12a8564a95e9c422b2e8f467f1)
